@@ -11,7 +11,7 @@
       }
       body {
         font-family:sans-serif;
-        background-image: url("/simple-feature-section-master/resources/Background_image.svg");
+        background-image: url("resources/Background_image.svg");
         background-color: #161c2a;
         color:white;
       }
@@ -85,7 +85,7 @@
       @media (max-width:640px)
       {
         body{
-          background-image: url("/simple-feature-section-master/resources/Background_image@2x.png");
+          background-image: url("resources/Background_image@2x.png");
         }
         .block{
             width:250px;
